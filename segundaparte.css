@@ -1,0 +1,157 @@
+body {
+    display: flex;
+    height: 20vh;
+    flex-direction: column;
+    background-image: url(fondos2/9303.jpg);
+    height: 100%;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .titulo1{
+    color: rgb(14, 12, 12);
+    margin-left: 30px;
+    font-size: 18px;
+  }
+  .container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    color: aliceblue;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h2 {
+    margin-left: 30px;
+    font-size: 30px;
+    width: fit-content;
+    color: rgb(14, 12, 12);
+    text-transform: uppercase;
+  }
+  
+  
+  
+  
+  #menu {
+    margin-bottom: 15px;
+    
+  }
+  
+  .Perfil {
+    margin-bottom: 3px;
+    border-radius: 30px;  
+    
+  }
+  .moto{
+  width: 20%;
+  height: 20%;
+  
+  }
+  .nav-enlace{
+    background-color: rgba(132, 164, 170, 0.596);
+    color: rgb(0, 0, 0);
+  padding: 10px 30px;
+    display: inline-block;
+    justify-content: space-around;
+    text-decoration: none;
+    border-radius: 30px;
+    
+    
+    
+    }
+    .nav-enlace:hover{ /*pasar mouse encima*/
+    background-color: rgba(244, 245, 245, 0.651);
+    
+    }
+    
+    button{
+    background-color: rgb(94, 240, 245);
+    color: black;
+    margin: 100px;
+    
+     }
+    
+    button:active{
+        background-color: turquoise;
+    
+    
+    }
+    #texto{
+
+color: black;
+margin-bottom: 10%;
+
+    }
+
+    #lupa{
+margin-left: 250px;
+
+    }
+
+    .imagen2{
+width: 40%;
+height: 40%;
+display: inline-block;
+
+
+    }
+    .cuadro{
+        border: 12px;
+        background-color: rgba(255, 255, 255, 0.616);
+        display: inline-block;
+        color: black;
+        border-radius: 30px;
+    }
+    #texto3{
+margin-right: 130px;
+
+    }
+    .parte2{
+
+        display: inline;
+    }
+    #estrellas{
+        display: inline-block;
+        color: yellow;
+    }
+    #seleccion{
+        background-color: rgb(247, 233, 36);
+        color: rgb(0, 0, 0);
+      padding: 10px 30px;
+        display: inline-block;
+        justify-content: space-around;
+        text-decoration: none;
+        border-radius: 30px;
+        
+        
+        
+        }
+        #seleccion:hover{ /*pasar mouse encima*/
+        background-color: rgb(244, 245, 245);
+        
+        }
+        
+        button{
+        background-color: rgb(94, 240, 245);
+        color: black;
+        margin: 100px;
+        
+         }
+        
+        button:active{
+            background-color: turquoise;
+        
+        }
+        #links{
+            margin-bottom: 10%;
+        }
+        .imagen3{
+        
+            width: 50%;
+
+        }
